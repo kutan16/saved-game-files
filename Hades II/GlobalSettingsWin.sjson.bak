@@ -1,0 +1,13 @@
+{
+  GraphicsQualityPreset = "GraphicsQualityPreset_High"
+  NewUpdateSoundRevisionViewed = 95285
+  LastRoadmapRevisionViewed = 95285
+  NoBorder = true
+  GraphicsAdapter = "NVIDIA GeForce RTX 4090"
+  LastPatchNoteRevisionViewed = 95285
+  FullScreen = true
+  Y = 2160
+  X = 3840
+  VSync = false
+  AutoDetectLowResAssets = false
+}
