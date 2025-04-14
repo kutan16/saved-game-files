@@ -16,9 +16,9 @@
 	<Attr name="dlc_overlay_shown_owned" value="4" />
 	<Attr name="eula_confirmed_version" value="1" />
 	<Attr name="fov" value="57.2281" />
-	<Attr name="fps" value="1" />
+	<Attr name="fps" value="0" />
 	<Attr name="g_telemetry" value="false" />
-	<Attr name="gamma" value="-0.09" />
+	<Attr name="gamma" value="-6.66134e-16" />
 	<Attr name="hfov" value="105" />
 	<Attr name="keybinds_settings" value="&lt;keybinds /&gt;&#10;" />
 	<Attr name="r_AntialiasingMode" value="3" />
