@@ -13,7 +13,7 @@
 	<Attr name="controls_invertMouse" value="0" />
 	<Attr name="controls_sensitivity" value="45" />
 	<Attr name="dlc_overlay_shown" value="0" />
-	<Attr name="dlc_overlay_shown_owned" value="4" />
+	<Attr name="dlc_overlay_shown_owned" value="20" />
 	<Attr name="eula_confirmed_version" value="1" />
 	<Attr name="fov" value="57.2281" />
 	<Attr name="fps" value="0" />
