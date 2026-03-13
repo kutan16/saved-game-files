@@ -1,5 +1,6 @@
 {
   MasterVolume = 0.904965
+  FpsLimit = "240"
   GraphicsQualityPreset = "GraphicsQualityPreset_High"
   NewUpdateSoundRevisionViewed = 133066
   LastRoadmapRevisionViewed = 133066
