@@ -5,13 +5,11 @@
   NewUpdateSoundRevisionViewed = 133066
   LastRoadmapRevisionViewed = 133066
   NoBorder = true
-  DisplayIndex = 2
   GraphicsAdapter = "NVIDIA GeForce RTX 4090"
   LastPatchNoteRevisionViewed = 95285
-  FullScreen = true
   ScreenshotCount = 2
   Y = 1440
   X = 3440
-  VSync = false
   AutoDetectLowResAssets = false
+  WindowX = -1080
 }
