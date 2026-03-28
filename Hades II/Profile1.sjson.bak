@@ -1,6 +1,5 @@
 {
-  BackupSaveCount = 4
-  ValidCheckpoint = false
+  BackupSaveCount = 7
   ControlsResetRevisionViewed = 95285
   CurrentSettingsCategory = 256
 }
